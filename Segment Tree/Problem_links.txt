@@ -1,0 +1,26 @@
+-> CLASSIC SEGMENT TREE PROBLEMS {
+## Easy Problems :-
+1. Xenia and Bit Operations (https://codeforces.com/contest/339/problem/D)
+2. Knight Tournament (https://codeforces.com/contest/356/problem/A)
+
+## Medium Problems :-
+1. Pashmak and Parmida's problem (https://codeforces.com/contest/459/problem/D)
+2. Enemy is weak (https://codeforces.com/contest/61/problem/E)
+3. Sereja and Brackets (https://codeforces.com/contest/380/problem/C)
+
+## Hard Problems :-
+1. Ant colony (https://codeforces.com/contest/474/problem/F)
+2. Misha and Permutations Summation (https://codeforces.com/contest/501/problem/D)
+3. Little Elephant and Inversions (https://codeforces.com/contest/220/problem/E)
+4. Points (https://codeforces.com/contest/19/problem/D)
+5. Jeff and Removing Periods (https://codeforces.com/contest/351/problem/D)
+6. Function (https://codeforces.com/contest/455/problem/E)
+}
+
+-> LAZY PROPOGATION SEGMENT TREE PROBLEMS{
+1. Circular RMQ (https://codeforces.com/contest/52/problem/C)
+2. Lucky Queries (https://codeforces.com/contest/145/problem/E)
+3. A Simple Task (https://codeforces.com/contest/558/problem/E)
+4. Lucky Array (https://codeforces.com/contest/121/problem/E)
+5. Kefa and Watch (https://codeforces.com/contest/580/problem/E)
+}
