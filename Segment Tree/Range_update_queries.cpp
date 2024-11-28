@@ -1,4 +1,3 @@
-// run this code in A.cpp outside 
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
