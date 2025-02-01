@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+shift+b"], "command": "build", "args": {"variant": "Run"} },
+    { "keys": ["ctrl+alt+b"], "command": "cancel_build" }
+]

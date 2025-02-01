@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Dracula Color Scheme",
+		"LSP-clangd",
+		"Monokai++",
+		"Package Control",
+		"Solarized Color Scheme",
+		"SublimeAStyleFormatter",
+		"Theme - Cobalt2",
+	],
+}

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+cout<<'\n';
+]]></content>
+  <tabTrigger>ln</tabTrigger>
+  <description></description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope >source.python</scope > -->
+</snippet>
